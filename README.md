@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 Creating fullstack applications
 
 - 🌱 I’m currently learning ...
-Currently learning Backend Develoment (C#,SQL,Asp,Net) 
+Backend Develoment (C#,SQL,Asp,Net) 
 
 - 👯 I’m looking to collaborate on ...
 Helping small business owners create webapps
