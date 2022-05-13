@@ -1,6 +1,6 @@
 ### Hello, I am Dario Perez
 
-I am a lifelong learner, technolist by trade and a dog dad of a beautiful pug! I began my journey as a developer at the Nashville Software School
+I am a lifelong learner, technolist by trade and a dog dad of a beautiful pug named Basil! I began my journey as a developer at the Nashville Software School
 and I'm fully invested in becoming a better developer with each new techology I learn! 
 
 Here are some ideas to get you started:
