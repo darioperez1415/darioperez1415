@@ -6,7 +6,7 @@ I am a dedicated lifelong learner and a technologist by profession, with a passi
 Creating data modeling 
 
 - 🌱 I’m currently learning ...
-Data Science (Java, Data Vizualizatin Techniques) 
+Data Science (Java, Data Vizualizatin Techniques, Statistical Modeling) 
 
 - 👯 I’m looking to collaborate on ...
 Research project in cyber security
