@@ -1,16 +1,12 @@
 ### Hello, I am Dario Perez
 
-I am a lifelong learner, technolist by trade and a dog dad of a beautiful pug named Basil! I began my journey as a developer at the Nashville Software School
-and I'm fully invested in becoming a better developer with each new techology I learn! 
-
-Here are some ideas to get you started:
+I am a dedicated lifelong learner and a technologist by profession, with a passion for continuous growth in the field of development. Outside of work, I am also a proud dog dad to a wonderful pug named Basil. My journey as a developer began at the Nashville Software School, and I am fully committed to enhancing my skills with each new technology I encounter. Currently, I am pursuing a master's degree in Data Science at Meharry Medical College, further broadening my expertise in this dynamic field.
 
 - 🔭 I’m currently working on ...
-Creating fullstack applications
+Creating data modeling 
 
 - 🌱 I’m currently learning ...
-Backend Develoment (C#,SQL,Asp,Net) 
+Backend Develoment (Java, Data Vizualizatin Techniques) 
 
 - 👯 I’m looking to collaborate on ...
-Helping small business owners create webapps
-
+Research project in cyber security
